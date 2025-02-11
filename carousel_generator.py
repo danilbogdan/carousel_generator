@@ -3,11 +3,11 @@ import os
 
 # Image and font parameters
 WIDTH, HEIGHT = 1080, 1080  # Image size for Instagram
-FONT_PATH = os.path.join(os.path.dirname(__file__), "DejaVu-Sans-Bold.ttf")  # Path to the font
+FONT_PATH = os.path.join(os.path.dirname(__file__), "OpenSans-Light.ttf")  # Path to the font
 FONT_SIZE = 60
 TEXT_COLOR = "black"
 BG_COLOR = "white"
-USERNAME = "@your_username"
+USERNAME = "@progger_bob"
 
 # Aesthetic margins (padding)
 MARGIN_X = 100  # Left and right margin
